@@ -1,0 +1,1 @@
+project code to detect the blurr levelusing laplacian blurr scheme on the opencv within the range of focus point and write the text on the image and saves it !
